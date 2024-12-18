@@ -29,7 +29,8 @@ The application is deployed on **Vercel** for seamless accessibility.
 ## 🌍 Deployment
 Live Link: 🌍 [**Live Application Link**]([#](https://word-webtools.vercel.app/)) 
 
-📸 Include **screenshots** of the application here to showcase its interface and features.
+📸 Included **screenshots** of the application here to showcase its interface and features.
+<img src="SS1.png">
 
 ## 👨‍💻 Author
 - **Abhishek Das**
