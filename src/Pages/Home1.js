@@ -4,12 +4,12 @@ import MainContent1 from "../Components/MainContent1";
 
 export default function Home() {
   return (
-    <div>
+    <div className="con conr">
       <div className="content">
-        <div className="left">
+        <div className="">
           <Sidebar></Sidebar>
         </div>
-        <div className="right">
+        <div className="">
           <MainContent1></MainContent1>
         </div>
       </div>

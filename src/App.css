@@ -21,12 +21,6 @@
   padding: 25px;
 }
 
-.credit{
-  font-size: x-small;
-  position: absolute;
-  bottom: 0px;
-}
-
 .calculator {
   border: 1px solid #ccc;
   padding: 10px;
@@ -73,4 +67,17 @@
 
 .about::-webkit-scrollbar {
   display: none;
+}
+
+.conr{
+  top:8vh;
+  position: relative;
+  left:8vw
+}
+
+@media screen and (max-width: 768px) {
+  .con{
+    top: 8vh;
+    position: relative;
+  }
 }

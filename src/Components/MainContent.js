@@ -75,7 +75,7 @@ export default function Body(props) {
   const [text, setText] = useState('');
   
   return (
-<>
+<div className="con">
   <h2>Enter Your Text To Analyze</h2>
   <textarea className="form-control" id="exampleFormControlTextarea1" rows="3" value={text} onChange={handleChange} placeholder="Enter your text"></textarea>
   <button className="btn btn-primary my-3 mx-2" onClick={handleClear}>Clear All</button>
@@ -91,6 +91,6 @@ export default function Body(props) {
   <p>{text.length} Character Count</p>
   <h2>Preview :</h2>
   {text}
-</>
+</div>
   );
 }
