@@ -27,7 +27,7 @@ The application is deployed on **Vercel** for seamless accessibility.
 - ⚙️ Enables **smooth navigation** between sections using **React Router DOM**.
 
 ## 🌍 Deployment
-Live Link: 🌍 [**Live Application Link**]([#](https://word-webtools.vercel.app/)) 
+Live Link: 🌍 [**Live Application Link**] https://word-webtools.vercel.app/ 
 
 📸 Included **screenshots** of the application here to showcase its interface and features.
 <img src="SS1.png">
