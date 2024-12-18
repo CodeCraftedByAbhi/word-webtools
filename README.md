@@ -42,11 +42,11 @@ Follow these steps to set up the project locally:
 
 1. 📥 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-text-tool.git
+   git clone https://github.com/CodeCraftedByAbhi/word-webtools.git
    ```
 2. 📁 Navigate to the project directory:
    ```bash
-   cd web-text-tool
+   cd word-webtools
    ```
 3. 🛠️ Install dependencies:
    ```bash
