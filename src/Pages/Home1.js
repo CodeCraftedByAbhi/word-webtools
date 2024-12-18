@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <div className="con conr">
       <div className="content">
-        <div className="">
+        <div>
           <Sidebar></Sidebar>
         </div>
-        <div className="">
+        <div>
           <MainContent1></MainContent1>
         </div>
       </div>
